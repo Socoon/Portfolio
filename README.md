@@ -7,7 +7,7 @@
 
 <img class="profile-gif" src="https://i.seadn.io/gae/HdmBkaLf84iRc5vUk2maJXKzXcaHjqervzhcNpI84mLMkX83tvwpUCApYF9QUT2NZlZYgEMfC9jUTqiML9lmJZ91OF6CNXcjqEg0Eeg?auto=format&dpr=1&w=1000" alt="Assem's GIF">
 
-<h1 style="text-align: center;">Hi 👋, I'm Assem ,a recent graduate </h1>
+<h1 style="text-align: center;">Hi 👋, I'm Assem ,(fresh graduate) </h1>
 <h3 style="text-align: center;">QA Tester: Ensuring Quality in Software Solutions</h3>
 
 - 🌱 Currently I'm learning automation testing to enhance testing efficiency and bolster software quality assurance (**Selenium**)
