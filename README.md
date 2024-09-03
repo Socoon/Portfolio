@@ -7,7 +7,7 @@
 
 <img class="profile-gif" src="https://i.seadn.io/gae/HdmBkaLf84iRc5vUk2maJXKzXcaHjqervzhcNpI84mLMkX83tvwpUCApYF9QUT2NZlZYgEMfC9jUTqiML9lmJZ91OF6CNXcjqEg0Eeg?auto=format&dpr=1&w=1000" alt="Assem's GIF">
 
-<h1 style="text-align: center;">Hi 👋, I'm Assem ,(fresh graduate) </h1>
+<h1 style="text-align: center;">Hi 👋, I'm Assem ,(Fresh Graduate) </h1>
 <h3 style="text-align: center;">DevOps</h3>
 
 - 🌱there is Background in networks and hardware gained through N+ and A+ courses on YouTube. Recently embarked on a DevOps career path, starting with Linux administration and aiming to complete DevOps-related courses on Udemy.
