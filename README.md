@@ -8,9 +8,9 @@
 <img class="profile-gif" src="https://i.seadn.io/gae/HdmBkaLf84iRc5vUk2maJXKzXcaHjqervzhcNpI84mLMkX83tvwpUCApYF9QUT2NZlZYgEMfC9jUTqiML9lmJZ91OF6CNXcjqEg0Eeg?auto=format&dpr=1&w=1000" alt="Assem's GIF">
 
 <h1 style="text-align: center;">Hi 👋, I'm Assem ,(fresh graduate) </h1>
-<h3 style="text-align: center;">QA Tester: Ensuring Quality in Software Solutions</h3>
+<h3 style="text-align: center;">DevOps</h3>
 
-- 🌱 Currently I'm learning automation testing to enhance testing efficiency and bolster software quality assurance (**Selenium**)
+- 🌱there is Background in networks and hardware gained through N+ and A+ courses on YouTube. Recently embarked on a DevOps career path, starting with Linux administration and aiming to complete DevOps-related courses on Udemy.
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,14 +19,10 @@
 <h2>🗝Key Skills:</h2>
 <ul class="key-skills">
   <li>Manual Testing</li>
-  <li>YouTrack Bug Tracking</li>
+  <li>Bug Tracking</li>
   <li>Writing Test Scenarios and Test Cases</li>
   <li>Log Collection (Computer and Mobile)</li>
   <li>Data Sniffing with Fiddler</li>
-  <li>REST API Testing with Postman</li>
-  <li>Database Testing</li>
-  <li>Web Application Testing</li>
-  <li>Mobile Application Testing</li>
 </ul>
 </body>
 </html>
