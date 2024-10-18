@@ -10,7 +10,7 @@
 <h1 style="text-align: center;">Hi 👋, I'm Assem ,(Fresh Graduate) </h1>
 <h3 style="text-align: center;">Summary</h3>
 
-- 🌱there is Background in networks and hardware gained through N+ and A+ courses on YouTube. Recently embarked on a DevOps career path, starting with Linux administration and aiming to complete DevOps-related courses on Udemy.
+- 🌱there is Background in networks and hardware gained through N+ and A+ courses on YouTube. Recently embarked on a DevOps career path, starting with Linux administration and aiming to complete DevOps-related courses.
 <!DOCTYPE html>
 <html>
 <head>
