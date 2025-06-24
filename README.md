@@ -5,9 +5,9 @@
 </head>
 <body>
 
-<img class="profile-gif" src="https://i.seadn.io/gae/HdmBkaLf84iRc5vUk2maJXKzXcaHjqervzhcNpI84mLMkX83tvwpUCApYF9QUT2NZlZYgEMfC9jUTqiML9lmJZ91OF6CNXcjqEg0Eeg?auto=format&dpr=1&w=1000" alt="Assem's GIF">
+![8px8re2bo3l81](https://github.com/user-attachments/assets/57d6c0bb-1289-4cd2-b252-0d5576db6a48)
 
-<h1 style="text-align: center;">Hi 👋, I'm Assem ,(Fresh Graduate) </h1>
+<h1 style="text-align: center;">Welcome </h1>
 <h3 style="text-align: center;">Summary</h3>
 
 - 🌱there is Background in networks and hardware gained through N+ and A+ courses on YouTube. Recently embarked on a DevOps career path, starting with Linux administration and aiming to complete DevOps-related courses.
