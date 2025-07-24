@@ -14,9 +14,12 @@
 
 ## 🧠 About Me
 
-🎓 Graduated in **Information Security** (Russia)  
-🧪 Specializing **QA Automation** with Java, Selenium, and Cucumber  
-💥 Exploring **backend** development along the way   
+🎓 Graduated in **Information Security** (Russia)
+  
+🧪 Specializing **QA Automation** with Java, Selenium, and Cucumber
+  
+💥 Exploring **backend** development along the way
+   
 🎯 Self-taught, self-driven — riding solo on this dev journey
 
 > The more I learn, the more I realize how much I haven’t.  
