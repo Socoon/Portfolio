@@ -37,6 +37,6 @@
 
 ## 🔗 Connect
 
-- 🌐 [LinkedIn](www.linkedin.com/in/assem-allam-socoon-843365224) 
+- 🌐 [LinkedIn](https://www.linkedin.com/in/assem-allam-socoon-843365224) 
 
 ---
