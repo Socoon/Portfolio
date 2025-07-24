@@ -1,9 +1,1 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-
-![8px8re2bo3l81](https://github.com/user-attachments/assets/57d6c0bb-1289-4cd2-b252-0d5576db6a48)
-
+![killer-rabbit-media-pixel-art-moody-aesthetic-rainy-city-night-cosy-apartment-animation](https://github.com/user-attachments/assets/867bdd13-1b83-43d8-8a56-948b6fb71206)
