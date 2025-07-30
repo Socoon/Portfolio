@@ -32,6 +32,8 @@
 - 🔗 [Automation Testing with Selenium & Cucumber](https://github.com/Socoon/Java_Project.git)
 
 - 📊 [Excel Reader Script](https://github.com/Socoon/Excel_Reader_Script)
+- 👷[API Testing Postman](https://github.com/Socoon/API-Testing-Postman)
+- 📗[Login Test Using Excel Data](https://github.com/Socoon/Login-Test-Using-Excel-Data)
 
 ---
 
