@@ -45,6 +45,7 @@
 
 ## 🎢 My JavaScript Learning Journey
 I'm documenting every step as I learn JavaScript, starting from small practice apps to bigger projects.
+
 Stage 1 – Basics
 - ✅ Counter App  [Code](https://github.com/Socoon/Socoon.github.io) | [Live Demo](https://socoon.github.io/)
 
