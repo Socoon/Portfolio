@@ -48,7 +48,8 @@ I'm documenting every step as I learn JavaScript, starting from small practice a
 
 Stage 1 – Basics
 - ✅ Counter App  [Code](https://github.com/Socoon/Socoon.github.io/tree/main/Counter-App) | [Live Demo](https://socoon.github.io/Counter-App/)
-- ✅ Age-Verification [Code](https://github.com/Socoon/Socoon.github.io/tree/main/Age-verification) | [Live Demo](https://socoon.github.io/Age-verification)
+- ✅ Age Verification [Code](https://github.com/Socoon/Socoon.github.io/tree/main/Age-verification) | [Live Demo](https://socoon.github.io/Age-verification)
+- ✅ Subscription Payment Form[Code](https://github.com/Socoon/Socoon.github.io/tree/main/Subscription-Payment-Form) | [Live Demo](https://socoon.github.io/Subscription-Payment-Form)
 
 
 
