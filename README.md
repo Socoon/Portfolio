@@ -37,12 +37,6 @@
 
 ---
 
-## 🔗 Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/assem-allam-socoon-843365224) 
-
----
-
 ## 🎢 My JavaScript Learning Journey
 I'm documenting every step as I learn JavaScript, starting from small practice apps to bigger projects.
 
