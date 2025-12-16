@@ -18,7 +18,7 @@
   
 🧪 Specializing **QA Automation** with Java, Selenium, and Cucumber
   
-💥 Exploring **backend** development along the way
+💥 Exploring **DevOps**  along the way
    
 🎯 Self-taught, self-driven — riding solo on this dev journey
 
